@@ -12,7 +12,7 @@
 
 ---
 
-## 🎯 Current Focus
+##Current Focus
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
@@ -28,7 +28,7 @@
 
 ---
 
-## 📝 Latest Write-ups
+##Latest Write-ups
 
 <div align="center">
   
@@ -38,7 +38,7 @@
 
 ---
 
-## 🤝 Connect with me:
+##Connect with me:
 
 <p align="left">
   <a href="https://github.com/Zent01" target="blank">
@@ -56,7 +56,7 @@
 
 ---
 
-## 💻 Languages and Tools:
+##Languages and Tools:
 
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
