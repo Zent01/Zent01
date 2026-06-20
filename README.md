@@ -12,7 +12,58 @@
 
 ---
 
-## Current Focus
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Zent01/Fuzzionyx">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="50" height="50">
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://github.com/Zent01/Fuzzionyx">Fuzzionyx</a></strong><br>
+      🔍 A lightweight yet powerful web fuzzing tool for directory and file discovery. Built in Go, combining performance with simplicity — ideal for penetration testing, bug bounty automation, and security assessments.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Zent01/Windows-Keylogger">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="50" height="50">
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://github.com/Zent01/Windows-Keylogger">Windows Keylogger</a></strong><br>
+      ⌨️ A Windows-based keylogger for educational and authorized security testing purposes, demonstrating keystroke capture techniques.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Zent01/Penetration-Testing-Reports">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="50" height="50">
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://github.com/Zent01/Penetration-Testing-Reports">Penetration Testing Reports</a></strong><br>
+      📝 Detailed write-ups and reports from penetration testing engagements, vulnerability assessments, and security research.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Zent01/Pentest-Notes">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="50" height="50">
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://github.com/Zent01/Pentest-Notes">Pentest Notes</a></strong><br>
+      📋 Personal pentesting methodology, cheatsheets, and notes covering web app exploitation, Active Directory, privilege escalation, and more.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Current Focus
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
@@ -28,7 +79,7 @@
 
 ---
 
-## Latest Write-ups
+## 📝 Latest Write-ups
 
 <div align="center">
   
@@ -38,7 +89,7 @@
 
 ---
 
-## Connect with me:
+## 🤝 Connect with me:
 
 <p align="left">
   <a href="https://github.com/Zent01" target="blank">
@@ -56,7 +107,7 @@
 
 ---
 
-## Languages and Tools:
+## 💻 Languages and Tools:
 
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
