@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="300" alt="Hacking Animation">
 </div>
 
-### Cybersecurity Enthusiast | Self-Taught Penetration Tester
+### Offensive Security Enthusiast | Web & Active Directory Pentester
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Zent01&label=Profile%20views&color=0e75b6&style=flat" alt="Zent01" />
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Zent01/Windows-Keylogger">
+      <a href="https://github.com/Zent01/Windows Keyboard Monitoring Research">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="50" height="50">
       </a>
     </td>
@@ -76,6 +76,15 @@
 - 🤝 I'm looking for help with **Understanding advanced penetration testing techniques and improving my knowledge of system design from a security perspective.**
 
 - 💬 Ask me about **Web application security, Active Directory, SQL injection, XSS, authentication flaws, and ethical hacking basics.**
+
+---
+
+## 🏆 Certifications
+🛡️ Security 1 (SEC1) TryHackMe
+
+- Completed foundational cybersecurity training
+- Covered networking, Linux, web security, and offensive security fundamentals
+- Built hands-on experience through practical labs and exercises
 
 ---
 
