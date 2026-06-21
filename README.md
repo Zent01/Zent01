@@ -23,7 +23,7 @@
     </td>
     <td>
       <strong><a href="https://github.com/Zent01/Fuzzionyx">Fuzzionyx</a></strong><br>
-      🔍 A lightweight yet powerful web fuzzing tool for directory and file discovery. Built in Go, combining performance with simplicity — ideal for penetration testing, bug bounty automation, and security assessments.
+      🔍 A lightweight yet powerful web fuzzing tool for directory and file discovery. Built in Go, combining performance with simplicity ideal for penetration testing, bug bounty automation, and security assessments.
     </td>
   </tr>
   <tr>
@@ -45,7 +45,7 @@
     </td>
     <td>
       <strong><a href="https://github.com/Zent01/Penetration-Testing-Reports">Penetration Testing Reports</a></strong><br>
-      📝 Detailed write-ups and reports from penetration testing engagements, vulnerability assessments, and security research.
+      📝 Detailed write-ups and reports from penetration testing engagements.
     </td>
   </tr>
   <tr>
