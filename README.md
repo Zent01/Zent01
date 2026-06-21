@@ -28,13 +28,13 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Zent01/Windows Keyboard Monitoring Research">
+      <a href="https://github.com/Zent01/Windows-Keylogger">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="50" height="50">
       </a>
     </td>
     <td>
-      <strong><a href="https://github.com/Zent01/Windows-Keylogger">Windows Keylogger</a></strong><br>
-      ⌨️ A Windows-based keylogger for educational and authorized security testing purposes, demonstrating keystroke capture techniques.
+      <strong><a href="https://github.com/Zent01/Windows-Keylogger">Windows Keyboard Monitoring Research</a></strong><br>
+      ⌨️ Research for educational and authorized security testing purposes, demonstrating keystroke capture techniques.
     </td>
   </tr>
   <tr>
@@ -80,6 +80,11 @@
 ---
 
 ## 🏆 Certifications
+
+<div align="center">
+  <img src="https://tryhackme.com/_next/static/media/sec1-badge.47d5a573e75ea05f.svg" width="180" alt="SEC1 Badge">
+</div>
+
 🛡️ Security 1 (SEC1) TryHackMe
 
 - Completed foundational cybersecurity training
@@ -95,20 +100,6 @@
 [![Penetration Testing Reports](https://img.shields.io/badge/📝_Penetration_Testing_Reports-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zent01/Penetration-Testing-Reports)
 
 </div>
-
----
-
-## 🤝 Connect with me:
-
-<p align="center">
-  <a href="https://github.com/Zent01" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Zent01" height="50" width="50" />
-  </a>
-  
-  <a href="https://discord.gg/MYQB9AusyR" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="50" width="50" />
-  </a>
-</p>
 
 ---
 
@@ -148,10 +139,77 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=py" width="50" height="50"/> 
   </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=kali" width="50" height="50"/>
+  </a>
 </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zent01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Zent01" />
+</p>
+
+---
+
+## 🛠️ Security Tools
+
+<div align="center">
+
+### 🌐 Web
+
+<p>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/burp-suite.png" width="50" height="50" alt="Burp Suite"/>
+  </a>
+  <a href="https://github.com/OJ/gobuster" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/search.png" width="50" height="50" alt="Gobuster"/>
+  </a>
+  <a href="https://sqlmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="50" height="50" alt="SQLMap"/>
+  </a>
+</p>
+
+### 🏢 Active Directory
+
+<p>
+  <a href="https://github.com/Pennyw0rth/NetExec" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/network.png" width="50" height="50" alt="NetExec"/>
+  </a>
+  <a href="https://github.com/gentilkiwi/mimikatz" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/kiwi.png" width="50" height="50" alt="Mimikatz"/>
+  </a>
+  <a href="https://github.com/Hackplayers/evil-winrm" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/evil.png" width="50" height="50" alt="Evil-WinRM"/>
+  </a>
+</p>
+
+### 🌍 Network
+
+<p>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/nmap.png" width="50" height="50" alt="Nmap"/>
+  </a>
+  <a href="https://github.com/RustScan/RustScan" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/rust.png" width="50" height="50" alt="RustScan"/>
+  </a>
+  <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/hydra.png" width="50" height="50" alt="Hydra"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🤝 Connect with me:
+
+<p align="center">
+  <a href="https://github.com/Zent01" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Zent01" height="50" width="50" />
+  </a>
+  
+  <a href="https://discord.gg/MYQB9AusyR" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="50" width="50" />
+  </a>
 </p>
 
 ---
