@@ -26,6 +26,17 @@
       🔍 A lightweight yet powerful web fuzzing tool for directory and file discovery. Built in Go, combining performance with simplicity ideal for penetration testing, bug bounty automation, and security assessments.
     </td>
   </tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/Zent01/Shell-Nyx">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="50" height="50">
+    </a>
+  </td>
+  <td>
+    <strong><a href="https://github.com/Zent01/Web-Shell-Nyx">Shell Nyx</a></strong><br>
+    🐚 An advanced PHP web shell designed for authorized security assessments, featuring an interactive terminal, file manager, file editor, uploads/downloads, system information detection, and a modern responsive interface for penetration testing and security research.
+  </td>
+</tr>
   <tr>
     <td align="center">
       <a href="https://github.com/Zent01/Windows-Keylogger">
