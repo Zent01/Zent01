@@ -61,13 +61,13 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Zent01/Pentest-Notes">
+      <a href="https://github.com/Zent01/Pentest-Suite">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="50" height="50">
       </a>
     </td>
     <td>
-      <strong><a href="https://github.com/Zent01/Pentest-Notes">Pentest Notes</a></strong><br>
-      📋 Personal pentesting methodology, cheatsheets, and notes covering web app exploitation, Active Directory, privilege escalation, and more.
+      <strong><a href="https://github.com/Zent01/Pentest-Suite">Pentest Suite</a></strong><br>
+      📋 A self-contained, offline-first penetration testing companion and more !!!
     </td>
   </tr>
 </table>
