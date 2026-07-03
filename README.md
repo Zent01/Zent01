@@ -114,7 +114,7 @@
 
 ---
 
-## 💻 Languages and Tools:
+## 💻 Languages:
 
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
