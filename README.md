@@ -155,10 +155,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zent01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Zent01" />
-</p>
-
 ---
 
 ## 🛠️ Security Tools
