@@ -98,7 +98,7 @@
 🛡️ Security 1 (SEC1) TryHackMe
 
 - Completed foundational cybersecurity training
-- Covered networking, Linux, web security, and offensive security fundamentals
+- Covered networking, Linux, web security, and offensive/defensive security fundamentals
 - Built hands-on experience through practical labs and exercises
 
 ---
