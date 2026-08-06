@@ -80,13 +80,12 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </div>
 
-- 🌱 I'm currently learning **Self-teaching ethical hacking and penetration testing, focusing on web application security, OWASP Top 10 vulnerabilities, and real-world exploitation techniques.**
+- 🌱 I'm currently learning **Self-teaching ethical hacking and penetration testing, focusing on web application security, OWASP Top 10 vulnerabilities, active directory and networking and real-world exploitation techniques.**
 
 - 👯 I'm looking to collaborate on **Open-source cybersecurity tools, web security projects, and anything related to ethical hacking or secure development.**
 
 - 🤝 I'm looking for help with **Understanding advanced penetration testing techniques and improving my knowledge of system design from a security perspective.**
 
-- 💬 Ask me about **Web application security, Active Directory, SQL injection, XSS, authentication flaws, and ethical hacking basics.**
 
 ---
 
