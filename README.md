@@ -28,6 +28,17 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/Zent01/Fuzzionyx">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="50" height="50">
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://github.com/Zent01/Fuzzionyx">FuzzioNyx</a></strong><br>
+      🔍 Fuzzionyx is a lightweight yet powerful web fuzzing tool designed for directory and file discovery. Built in Go, it combines performance with simplicity, making it ideal for penetration testing, bug bounty automation, and security assessments.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/Zent01/HuntNyx">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="50" height="50">
       </a>
