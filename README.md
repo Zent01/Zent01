@@ -45,7 +45,7 @@
     </td>
     <td>
       <strong><a href="https://github.com/Zent01/HuntNyx">HuntNyx</a></strong><br>
-      🔍 Web application vulnerability testing pipeline that orchestrates existing tools for discovery/enumeration & adds its own confidence scored injection testing engine
+      ⚡ Web application vulnerability testing pipeline that orchestrates existing tools for discovery/enumeration & adds its own confidence scored injection testing engine
     </td>
   </tr>
   <tr>
