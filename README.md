@@ -28,13 +28,13 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Zent01/Fuzzionyx">
+      <a href="https://github.com/Zent01/HuntNyx">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="50" height="50">
       </a>
     </td>
     <td>
-      <strong><a href="https://github.com/Zent01/Fuzzionyx">Fuzzionyx</a></strong><br>
-      🔍 A lightweight yet powerful web fuzzing tool for directory and file discovery. Built in Go, combining performance with simplicity ideal for penetration testing, bug bounty automation, and security assessments.
+      <strong><a href="https://github.com/Zent01/HuntNyx">HuntNyx</a></strong><br>
+      🔍 Web application vulnerability testing pipeline that orchestrates existing tools for discovery/enumeration & adds its own confidence scored injection testing engine
     </td>
   </tr>
   <tr>
