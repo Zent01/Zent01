@@ -109,8 +109,7 @@
       <p><strong>🛡️ SEC1</strong> - TryHackMe</p>
     </div>
     <div>
-      <img src="<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/fdf5814b-417a-4f55-9214-f8c390ecd633" />
-" width="150" alt="PT1 Badge">
+<img src="https://github.com/user-attachments/assets/fdf5814b-417a-4f55-9214-f8c390ecd633" width="150" alt="PT1 Badge">
       <p><strong>🎯 PT1</strong> - TryHackMe</p>
     </div>
   </div>
