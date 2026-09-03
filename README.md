@@ -103,14 +103,17 @@
 ## 🏆 Certifications
 
 <div align="center">
-  <img src="https://tryhackme.com/_next/static/media/sec1-badge.47d5a573e75ea05f.svg" width="180" alt="SEC1 Badge">
+  <div style="display: flex; gap: 40px; justify-content: center; flex-wrap: wrap;">
+    <div>
+      <img src="https://tryhackme.com/_next/static/media/sec1-badge.47d5a573e75ea05f.svg" width="150" alt="SEC1 Badge">
+      <p><strong>🛡️ SEC1</strong> - TryHackMe</p>
+    </div>
+    <div>
+      <img src="https://tryhackme.com/certification/junior-penetration-tester" width="150" alt="PT1 Badge">
+      <p><strong>🎯 PT1</strong> - TryHackMe</p>
+    </div>
+  </div>
 </div>
-
-🛡️ Security 1 (SEC1) TryHackMe
-
-- Completed foundational cybersecurity training
-- Covered networking, Linux, web security, and offensive/defensive security fundamentals
-- Built hands-on experience through practical labs and exercises
 
 ---
 
