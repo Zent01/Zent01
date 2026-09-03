@@ -102,18 +102,18 @@
 
 ## 🏆 Certifications
 
-<div align="center">
-  <div style="display: flex; gap: 40px; justify-content: center; flex-wrap: wrap;">
-    <div>
-      <img src="https://tryhackme.com/_next/static/media/sec1-badge.47d5a573e75ea05f.svg" width="150" alt="SEC1 Badge">
-      <p><strong>️ SEC1</strong> - TryHackMe</p>
-    </div>
-    <div>
-      <img src="https://github.com/user-attachments/assets/fdf5814b-417a-4f55-9214-f8c390ecd633" width="150" alt="PT1 Badge">
-      <p><strong>🎯 PT1</strong> - TryHackMe</p>
-    </div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://tryhackme.com/_next/static/media/sec1-badge.47d5a573e75ea05f.svg" width="150" alt="SEC1 Badge"><br>
+      <strong>🛡️ SEC1</strong> - TryHackMe
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fdf5814b-417a-4f55-9214-f8c390ecd633" width="150" alt="PT1 Badge"><br>
+      <strong>🎯 PT1</strong> - TryHackMe
+    </td>
+  </tr>
+</table>
 
 ---
 
